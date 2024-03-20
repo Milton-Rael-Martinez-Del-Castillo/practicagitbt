@@ -1,0 +1,34 @@
+.headercolor{
+    background-color: greenyellow;
+    border: 4px solid white;
+}
+
+.footercolor{
+    background-color: greenyellow;
+    border: 2px solid white;
+}
+
+.sidebarred{
+    background-color: red;
+    border: 2px solid white;
+}
+
+.navlila{
+    background-color: blueviolet;
+    border: 2px solid white;
+}
+
+.panelizq{
+    background-color: coral;
+    border: 2px solid white;
+}
+
+.panelder{
+    background-color: coral;
+    border: 2px solid white;
+}
+
+.caja{
+    background-color:blue;
+    border: 2px solid white;
+}
